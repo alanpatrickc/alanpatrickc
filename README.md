@@ -19,5 +19,6 @@
 <img align:"center" alt="Html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align:"center" alt="Html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanpatrickc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
